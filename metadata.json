@@ -1,0 +1,5 @@
+{
+  "name": "MindMatch - Memory Game",
+  "description": "A sleek, responsive memory matching game built with React and Tailwind CSS. Features smooth 3D animations, move tracking, and a timer.",
+  "requestFramePermissions": []
+}
